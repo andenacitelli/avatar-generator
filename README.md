@@ -4,7 +4,7 @@ Hey! I'm Anden Acitelli. This is my take-home project for my Akkio application.
 
 I'm doing the Avatar generator project, where the goal is basically just to take an arbitrary string and turn it into a picture. I gather that it's basically supposed to be like a hash function, where small differences in input result in large differences in output, but it's still deterministic.
 
-The page states that you should treat this as if you 
+Output Examples: https://aacitelli.notion.site/GitHub-Avatar-Generator-39e61409b5fa4236a63d63141e294cae
 
 ## Objectives
 
