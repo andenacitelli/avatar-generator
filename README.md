@@ -14,11 +14,7 @@ Here's my objectives / goals:
 - **Continuity looks good.** I can do this by using a continuous color gradient. Something like Perlin noise should do the trick.
 
 - **Should look roughly like a face.** This is not at all a strict guideline. Aiming for eyes and making it symmetrical should be enough.
-- **Small input changes should result in large output changes.** I feel like everybody having a completely  
-- 
-## Interface
-
-Generated text is 
+- **Small input changes should result in large output changes.** I feel like everybody having a completely
 
 ## Technical Approach
 
